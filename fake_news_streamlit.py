@@ -388,4 +388,6 @@ with st.sidebar:
     - Provide complete article text for better accuracy
     - Include the original headline
     - Longer articles generally yield more reliable results
+    - Use english language content for optimal performance
+    - Avoid using slang or overly complex language
     """)
