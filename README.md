@@ -8,13 +8,13 @@ This project aims to combat misinformation by providing an automated tool to cla
 
 ## ✨ Features
 
-- 🤖 **Machine Learning Model**: Logistic Regression with TF-IDF features
-- 🔍 **Text Analysis**: Advanced preprocessing and feature extraction
-- 📊 **Interactive UI**: Beautiful Streamlit web interface
-- 📈 **Confidence Scores**: Detailed prediction confidence visualization
-- 📋 **Sample Testing**: Pre-loaded examples for immediate testing
-- 🎨 **Modern Design**: Responsive and user-friendly interface
-- ⚡ **Real-time Analysis**: Instant prediction results
+- **Machine Learning Model**: Logistic Regression with TF-IDF features
+- **Text Analysis**: Advanced preprocessing and feature extraction
+- **Interactive UI**: Beautiful Streamlit web interface
+- **Confidence Scores**: Detailed prediction confidence visualization
+- **Sample Testing**: Pre-loaded examples for immediate testing
+- **Modern Design**: Responsive and user-friendly interface
+- **Real-time Analysis**: Instant prediction results
 
 ## 🗂️ Project Structure
 
