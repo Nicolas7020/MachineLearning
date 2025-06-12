@@ -99,14 +99,6 @@ Open `AOL_Machine_Learning.ipynb` to:
 - Analyze model performance metrics
 - Experiment with different parameters
 
-### Deployment Setup
-
-Use `DEPLOY.ipynb` for:
-- Step-by-step deployment instructions
-- Environment setup verification
-- Application testing and validation
-- Troubleshooting deployment issues
-
 ## 🚀 Deployment Options
 
 ### Local Development
