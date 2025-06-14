@@ -247,17 +247,6 @@ You can modify the model by:
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🙏 Acknowledgments
-
-- Dataset sources for providing real and fake news samples
-- Scikit-learn team for machine learning tools
-- Streamlit team for the web framework
-- Open source community for inspiration and support
-
 ## 🔧 Troubleshooting
 
 ### Common Issues
