@@ -26,7 +26,7 @@ MachineLearning/
 ├── README.md                     # Project documentation
 ├── Fake.csv                      # Fake news dataset
 ├── True.csv                      # Real news dataset
-└── deploy apps/                  # Additional deployment files
+└── deploy apps/                  # Code with much simple preprocessing/tuning
     ├── fake_news_app.py
     ├── Fake.csv
     └── True.csv
@@ -98,14 +98,6 @@ Open `AOL_Machine_Learning.ipynb` to:
 - Understand the model training process
 - Analyze model performance metrics
 - Experiment with different parameters
-
-### Deployment Setup
-
-Use `DEPLOY.ipynb` for:
-- Step-by-step deployment instructions
-- Environment setup verification
-- Application testing and validation
-- Troubleshooting deployment issues
 
 ## 🚀 Deployment Options
 
@@ -266,14 +258,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - Streamlit team for the web framework
 - Open source community for inspiration and support
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the troubleshooting section below
-2. Review the notebook for detailed explanations
-3. Open an issue on GitHub
-
 ## 🔧 Troubleshooting
 
 ### Common Issues
@@ -328,7 +312,7 @@ If you encounter any issues or have questions:
 - **Memory Management**: Efficient sparse matrix handling for large datasets
 - **Loading Time**: First load may take 30-60 seconds to train the model
 
-## 🎯 Future Enhancements
+## Future Enhancements
 
 - [ ] Support for multiple languages
 - [ ] Real-time news scraping
@@ -338,7 +322,7 @@ If you encounter any issues or have questions:
 - [ ] Mobile application
 - [ ] Browser extension
 
-## 📸 Application Preview
+## Application Preview
 
 The Streamlit application provides an intuitive interface with:
 
@@ -363,7 +347,7 @@ The app includes carefully curated examples of both real and fake news for testi
 3. **Verification**: Always cross-check results with multiple reliable sources
 4. **Educational Purpose**: Use this tool to understand how AI can help identify misinformation patterns
 
-## 🎓 Educational Value
+## Educational Value
 
 This project demonstrates:
 - **Text Processing**: Advanced NLP techniques for news analysis
@@ -373,6 +357,4 @@ This project demonstrates:
 
 ---
 
-**Built with ❤️ for fighting misinformation and promoting media literacy**
-
-*Last updated: December 2024*
+*Last updated: June 2025*
