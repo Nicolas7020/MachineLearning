@@ -347,7 +347,7 @@ The app includes carefully curated examples of both real and fake news for testi
 3. **Verification**: Always cross-check results with multiple reliable sources
 4. **Educational Purpose**: Use this tool to understand how AI can help identify misinformation patterns
 
-## Educational Value
+## Educational Values
 
 This project demonstrates:
 - **Text Processing**: Advanced NLP techniques for news analysis
